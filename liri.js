@@ -1,7 +1,7 @@
 require("dotenv").config();
 var keys = require("./keys.js");
 var fs = require("fs");
-var twitter = require("twitter");
+var Twitter = require("twitter");
 var Spotify = require('node-spotify-api');
 var request = require('request');
 
@@ -65,7 +65,7 @@ function spotifySongSearch(songName) {
                 console.log('Error occurred: ' + err);
                 return;
             } else {
-                output = space + "|||||||| HEY MTV I'M LIRI, WELOME TO MY RESULTS |||||||" +
+                output = space + "<[ HEY MTV I'M LIRI, WELOME TO MY RESULTS ]>" +
                     space + "Song Name: " + "'" + songName.toUpperCase() + "'" +
                     space + "Album Name: " + data.tracks.items[0].album.name +
                     space + "Artist Name: " + data.tracks.items[0].album.artists[0].name +
@@ -83,7 +83,7 @@ function spotifySongSearch(songName) {
 
 function recentTweets() {
     var client = new twitter(keys.twitter);
-    var params = { screen_name: '540life', count: 20 };
+    var params = { screen_name: 'MEATGRINDA', count: 20 };
 
     client.get('statuses/user_timeline', params, function (err, tweets, _res) {
 
@@ -139,7 +139,7 @@ function doWhatItSays() {
 function choice(caseData, functionData) {
     switch (caseData) {
         case 'spotify-this-song':
-            spotifyThisSong(functionData);
+            spotifySongSearch(functionData);
             break;
         case 'do-what-it-says':
             doWhatItSays();
