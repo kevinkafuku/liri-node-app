@@ -162,4 +162,4 @@ function appStart(arg0, arg1) {
     choice(arg0, arg1);
 };
 
-appStart(process.argv[2], process.argv[3]);
+appStart(process.argv[2], process.argv.slice(3).join(" "));

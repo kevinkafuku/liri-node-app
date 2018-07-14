@@ -101,4 +101,141 @@ Actors: Dev Patel, Saurabh Shukla, Anil Kapoor, Raj Zutshi
 
 [{"\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>":[0],"created at: ":"Sat Jul 14 03:23:41 +0000 2018","Tweets: ":"FEEDBACK"},{"\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>":[1],"created at: ":"Fri Jul 13 03:40:33 +0000 2018","Tweets: ":"ya get me."},{"\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>":[2],"created at: ":"Fri Jul 13 03:39:40 +0000 2018","Tweets: ":"whenEVA I call"},{"\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>":[3],"created at: ":"Fri Jul 13 03:39:21 +0000 2018","Tweets: ":"I hear you in da background"},{"\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>":[4],"created at: ":"Fri Jul 13 03:38:49 +0000 2018","Tweets: ":"LIRI how ya be ?"},{"\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>":[5],"created at: ":"Fri Jul 13 03:37:40 +0000 2018","Tweets: ":"#FWALLA"},{"\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>":[6],"created at: ":"Fri Jul 13 03:21:55 +0000 2018","Tweets: ":"and the women knew who the men where 🧐"},{"\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>":[7],"created at: ":"Fri Jul 13 03:21:06 +0000 2018","Tweets: ":"the men knew who the women where"},{"\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>":[8],"created at: ":"Fri Jul 13 03:20:46 +0000 2018","Tweets: ":"the women knew who the women where"},{"\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>":[9],"created at: ":"Fri Jul 13 03:20:34 +0000 2018","Tweets: ":"the men knew who the men where"},{"\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>":[10],"created at: ":"Thu Jul 12 21:07:18 +0000 2018","Tweets: ":"*cries in spanish*"},{"\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>":[11],"created at: ":"Thu Jul 12 21:02:17 +0000 2018","Tweets: ":"YO PIERRE YOU WANNA COME OUT HERE ?"}]
 
-"your new tweet : waiting was posted to your twitter profile successfully !"
+"your new tweet : waiting was posted to your twitter profile successfully !""spotify-this-song,\"I Want it That Way\""
+
+
+<[ NOW THAT YOU'VE SEEN MY MOVIE THEATRE, LET ME SHOW YOU MY SPOTIFY STUDIO ]>
+Song Name: '"I WANT IT THAT WAY"
+
+Album Name: The Hits--Chapter One
+
+Artist Name: Backstreet Boys
+
+
+[{"\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>":[0],"created at: ":"Sat Jul 14 03:27:45 +0000 2018","Tweets: ":"waiting"},{"\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>":[1],"created at: ":"Sat Jul 14 03:23:41 +0000 2018","Tweets: ":"FEEDBACK"},{"\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>":[2],"created at: ":"Fri Jul 13 03:40:33 +0000 2018","Tweets: ":"ya get me."},{"\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>":[3],"created at: ":"Fri Jul 13 03:39:40 +0000 2018","Tweets: ":"whenEVA I call"},{"\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>":[4],"created at: ":"Fri Jul 13 03:39:21 +0000 2018","Tweets: ":"I hear you in da background"},{"\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>":[5],"created at: ":"Fri Jul 13 03:38:49 +0000 2018","Tweets: ":"LIRI how ya be ?"},{"\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>":[6],"created at: ":"Fri Jul 13 03:37:40 +0000 2018","Tweets: ":"#FWALLA"},{"\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>":[7],"created at: ":"Fri Jul 13 03:21:55 +0000 2018","Tweets: ":"and the women knew who the men where 🧐"},{"\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>":[8],"created at: ":"Fri Jul 13 03:21:06 +0000 2018","Tweets: ":"the men knew who the women where"},{"\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>":[9],"created at: ":"Fri Jul 13 03:20:46 +0000 2018","Tweets: ":"the women knew who the women where"},{"\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>":[10],"created at: ":"Fri Jul 13 03:20:34 +0000 2018","Tweets: ":"the men knew who the men where"},{"\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>":[11],"created at: ":"Thu Jul 12 21:07:18 +0000 2018","Tweets: ":"*cries in spanish*"},{"\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>":[12],"created at: ":"Thu Jul 12 21:02:17 +0000 2018","Tweets: ":"YO PIERRE YOU WANNA COME OUT HERE ?"}]
+
+"your new tweet : imfreezingmybuttoffinthisclassroom was posted to your twitter profile successfully !"
+
+"spotify-this-song,\"I Want it That Way\""
+<[ NOW THAT YOU'VE SEEN MY MOVIE THEATRE, LET ME SHOW YOU MY SPOTIFY STUDIO ]>
+Song Name: '"I WANT IT THAT WAY"
+
+Album Name: The Hits--Chapter One
+
+Artist Name: Backstreet Boys
+
+<[ HEY MTV I'M LIRI, WELOME TO MY MOVIE RESULTS ]>
+
+Title: The Shawshank Redemption
+
+Year: 1994
+
+Rated: R
+
+IMDB Rating: 9.3
+
+Rotten Tomatoes Rating: 91%
+
+Country: USA
+
+Language: English
+
+Plot: Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+
+Actors: Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler
+
+
+
+<[ HEY MTV I'M LIRI, WELOME TO MY MOVIE RESULTS ]>
+
+Title: Training Day
+
+Year: 2001
+
+Rated: R
+
+IMDB Rating: 7.7
+
+Rotten Tomatoes Rating: 72%
+
+Country: USA, Australia
+
+Language: English, Russian, Spanish, Korean
+
+Plot: On his first day on the job as a Los Angeles narcotics officer, a rookie cop goes beyond a full work day in training within the narcotics division of the LAPD with a rogue detective who isn't what he appears to be.
+
+Actors: Denzel Washington, Ethan Hawke, Scott Glenn, Tom Berenger
+
+
+
+<[ HEY MTV I'M LIRI, WELOME TO MY MOVIE RESULTS ]>
+
+Title: Black Panther
+
+Year: 2018
+
+Rated: PG-13
+
+IMDB Rating: 7.5
+
+Rotten Tomatoes Rating: 97%
+
+Country: USA
+
+Language: Swahili, Nama, English, Xhosa, Korean
+
+Plot: T'Challa, the King of Wakanda, rises to the throne in the isolated, technologically advanced African nation, but his claim is challenged by a vengeful outsider who was a childhood victim of T'Challa's father's mistake.
+
+Actors: Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira
+
+
+
+<[ HEY MTV I'M LIRI, WELOME TO MY MOVIE RESULTS ]>
+
+Title: Black
+
+Year: 2005
+
+Rated: NOT RATED
+
+IMDB Rating: 8.2
+
+Rotten Tomatoes Rating: 67%
+
+Country: India
+
+Language: Hindi, English
+
+Plot: The cathartic tale of a young woman who can't see, hear or talk and the teacher who brings a ray of light into her dark world.
+
+Actors: Amitabh Bachchan, Rani Mukerji, Shernaz Patel, Ayesha Kapoor
+
+
+
+
+"your new tweet : HEY ITS ME\nHEY ITs ME was posted to your twitter profile successfully !"
+
+"your new tweet : HEY THERE was posted to your twitter profile successfully !"
+
+"your new tweet : HEY IT'S ME was posted to your twitter profile successfully !"
+<[ HEY MTV I'M LIRI, WELOME TO MY MOVIE RESULTS ]>
+
+Title: The Dark Knight
+
+Year: 2008
+
+Rated: PG-13
+
+IMDB Rating: 9.0
+
+Rotten Tomatoes Rating: 94%
+
+Country: USA, UK
+
+Language: English, Mandarin
+
+Plot: When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.
+
+Actors: Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine
+
+
