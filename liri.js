@@ -31,19 +31,18 @@ function movieSearch(movieName) {
             } else {
                 let jsonData = JSON.parse(body);
 
-                output = space + "================= LIRI RESULTS ==================" +
-                    space + 'Title: ' + jsonData.Title +
-                    space + 'Year: ' + jsonData.Year +
-                    space + 'Rated: ' + jsonData.Rated +
-                    space + 'IMDB Rating: ' + jsonData.imdbRating +
-                    space + 'Rotten Tomatoes Rating: ' + jsonData.Ratings[1].Value +
-                    space + 'Country: ' + jsonData.Country +
-                    space + 'Language: ' + jsonData.Language +
-                    space + 'Plot: ' + jsonData.Plot +
-                    space + 'Actors: ' + jsonData.Actors + "\n\n\n";
+                output = "\n<[ HEY MTV I'M LIRI, WELOME TO MY MOVIE RESULTS ]>" + '\n' +
+                    '\nTitle: ' + jsonData.Title + '\n' +
+                    '\nYear: ' + jsonData.Year + '\n' +
+                    '\nRated: ' + jsonData.Rated + '\n' +
+                    '\nIMDB Rating: ' + jsonData.imdbRating + '\n' +
+                    '\nRotten Tomatoes Rating: ' + jsonData.Ratings[1].Value + '\n' +
+                    '\nCountry: ' + jsonData.Country + '\n' +
+                    '\nLanguage: ' + jsonData.Language + '\n' +
+                    '\nPlot: ' + jsonData.Plot + '\n' +
+                    '\nActors: ' + jsonData.Actors + "\n\n\n";
 
                 console.log(output);
-
                 fs.appendFile("result.txt", output, function (err) {
                     if (err) throw err;
                     console.log('result.txt updated !');
@@ -65,11 +64,11 @@ function spotifySongSearch(songName) {
                 console.log('Error occurred: ' + err);
                 return;
             } else {
-                output = space + "<[ HEY MTV I'M LIRI, WELOME TO MY RESULTS ]>" +
-                    space + "Song Name: " + "'" + songName.toUpperCase() + "'" +
-                    space + "Album Name: " + data.tracks.items[0].album.name +
-                    space + "Artist Name: " + data.tracks.items[0].album.artists[0].name +
-                    space + "URL: " + data.tracks.items[0].album.external_urls.spotify + "\n\n\n";
+                output = "\n<[ NOW THAT YOU'VE SEEN MY MOVIE THEATRE, LET ME SHOW YOU MY SPOTIFY STUDIO ]>" +
+                    "\nSong Name: " + "'" + songName.toUpperCase() + '\n' +
+                    "\nAlbum Name: " + data.tracks.items[0].album.name + '\n' +
+                    "\nArtist Name: " + data.tracks.items[0].album.artists[0].name + '\n'
+                    "\nURL: " + data.tracks.items[0].album.external_urls.spotify + "\n\n\n";
                 console.log(output);
 
                 fs.appendFile("result.txt", output, function (err) {
@@ -82,7 +81,7 @@ function spotifySongSearch(songName) {
 }
 
 function recentTweets() {
-    var client = new twitter(keys.twitter);
+    var client = new Twitter(keys.twitter);
     var params = { screen_name: 'MEATGRINDA', count: 20 };
 
     client.get('statuses/user_timeline', params, function (err, tweets, _res) {
@@ -90,13 +89,14 @@ function recentTweets() {
         if (!err) {
             var data = [];
             for (var i = 0; i < tweets.length; i++) {
-                data.push({
+                data.push({ 
+                    '\n<[ NOW THAT YOU HAVE SEEN MY STUDIO CHECK OUT MY LAB WHERE I COOK UP MY TWEETS, HERE ARE SOME OF MY RECENTS ]>': [i],
                     'created at: ': tweets[i].created_at,
                     'Tweets: ': tweets[i].text,
                 });
             }
             console.log(data);
-            writeToLog(data);
+            logData(data);
         }
     });
 };
@@ -104,15 +104,15 @@ function recentTweets() {
 function tweetThis(tweetContent) {
 
     if (!tweetContent) {
-        tweetContent = "This is a random tweet!";
+        tweetContent = "well, ya'll know what it is";
     } else {
 
-        var client = new twitter(keys.twitter);
+        var client = new Twitter(keys.twitter);
 
         client.post('statuses/update', { status: tweetContent }, function (error, tweet, _response) {
             if (error) throw error;
             console.log(tweet); 
-            writeToLog("your new tweet : " + tweetContent + " was posted to your twitter profile successfully !");
+            logData("your new tweet : " + tweetContent + " was posted to your twitter profile successfully !");
         });
     }
 }
@@ -124,7 +124,7 @@ function doWhatItSays() {
             console.log(error);
         } else {
             console.log(data);
-            writeToLog(data);
+            logData(data);
             var dataArr = data.split(',')
 
             if (dataArr.length == 2) {
